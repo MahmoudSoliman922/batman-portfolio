@@ -1,11 +1,10 @@
-body{
+body {
     background-color: black;
     font-family: 'Roboto', sans-serif;
 }
 .logo img {
     height: 125px;
 }
-
 .small-logo img {
     height: 125px;
 }
@@ -13,14 +12,12 @@ body{
     background-color: #34404c;
     padding-top: 30px;
 }
-
 .name {
     color: #fef200;
-    text-shadow: 4px 4px 0px rgba(1,1,1,1);
+    text-shadow: 4px 4px 0px rgba(1, 1, 1, 1);
     letter-spacing: 3px;
     text-transform: uppercase;
 }
-
 .thin {
     font-weight: 300;
 }
@@ -28,14 +25,12 @@ body{
     letter-spacing: 5px;
     font-weight: 700;
 }
-
 .margin-top-10 {
     margin-top: 10px;
 }
 .margin-bottom-10 {
     margin-bottom: 10px;
 }
-
 .no-padding {
     padding: 0;
 }
@@ -62,12 +57,11 @@ body{
     background-color: white;
 }
 .modal-backdrop {
-   background-color: black;
+    background-color: black;
 }
-.modal-backdrop.in{
+.modal-backdrop.in {
     opacity: .9;
 }
-
 #video .modal-dialog {
     margin-top: 200px;
     width: 640px;
