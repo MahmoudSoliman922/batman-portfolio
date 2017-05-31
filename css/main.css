@@ -64,7 +64,7 @@ body {
 }
 #video .modal-dialog {
     margin-top: 200px;
-    width: 100%;
+    width: calc(100vw - 24px);
     max-width: 640px;
     max-height: 480px;
 }
