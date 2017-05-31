@@ -64,8 +64,8 @@ body {
 }
 #video .modal-dialog {
     margin-top: 200px;
-    width: 640px;
-    height: 480px;
+    max-width: 640px;
+    max-height: 480px;
 }
 .hanging-close {
     position: absolute;
